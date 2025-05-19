@@ -48,7 +48,7 @@ composeKMP = "1.7.3"
 
 koin = "4.0.0"
 koinComposeMultiplatform = "4.0.0"
-navigationCompose = "2.8.0-alpha10"
+navigationCompose = "2.9.0-beta01"
 lifecycleViewModel = "2.8.7"
 
 #ktor = "3.0.0-wasm2"
